@@ -9,3 +9,4 @@ MichaelN-SE/MichaelN-SE is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 Hallo, I'm grateful to take this software ingineering course with the alx community
 I am honored to be an ALX Student
+Thanks to ALX
